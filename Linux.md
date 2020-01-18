@@ -1,7 +1,7 @@
 
 #### Step 1. Create a bastion host or user
-* **Option 1:** Create a bastion host and assign a role with administrator access or seperate full accesses on required AWS services
-* **Option 2:** Or alternatively, you can create a user with required permission and configure your machine with AWS config with the access and secret key
+* **Option 1:** Create a bastion host and assign a role with administrator access or seperate full accesses on required AWS services.
+* **Option 2:** Or alternatively, you can create a user with required permission and configure your machine with AWS config with the access and secret key.
 
 #### Step 2. Create a publicly hosted zone in Route53
 * **Option 1** : If you bought your domain with AWS, then you should already have a hosted zone in Route53. If you plan to use this domain then no more work is needed.
